@@ -10,7 +10,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "electron": "electron .",
-    "electron:dev": "vite build && electron ."
+    "electron:dev": "vite build && electron .",
+    "electron:build": "vite build && electron-builder"
   },
   "dependencies": {
     "@mantine/core": "^7.5.0",
