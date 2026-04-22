@@ -1,6 +1,8 @@
 {
   "name": "wly-music-frontend",
   "version": "0.1.0",
+  "description": "Win11 Local Music Player",
+  "author": "wly",
   "private": true,
   "main": "dist-electron/main.js",
   "scripts": {
