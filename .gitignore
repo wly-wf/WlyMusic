@@ -3,9 +3,10 @@ node_modules/
 
 # Build outputs
 dist/
-build/
+dist-electron/
+release/
 
-# Rust build
+# Rust
 target/
 
 # IDE
